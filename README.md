@@ -4,6 +4,8 @@ Simple file server that uses Apache Cassandra to store files.
 
 As a client library it uses [Astyanax](https://github.com/Netflix/astyanax "by Netflix") and it's [Chunked Object Store](https://github.com/Netflix/astyanax/wiki/Chunked-Object-Store) implementation.
 
+**warning** - work in progress to be used only as reference implementation
+
 ## Prerequisites
 
 - Apache Cassandra running on a same machine.
